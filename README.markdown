@@ -39,7 +39,7 @@ fetal-health/
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/hriturajnarvekar27/FetalAl.git
+   git clone https://github.com/kedarurunkar10/Fetal-Al.git
    cd fetal-health
    ```
 
